@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <msq xmlns="http://www.msefi.com/:msq">
     <page/>
-    <page number="0" size="22804">
+    <page number="0" size="22808">
         <constant name="engineType">"MINIMAL_PINS"</constant>
         <constant digits="0" name="startButtonSuppressOnStartUpMs" units="">0.0</constant>
         <constant digits="0" name="sensorSnifferRpmThreshold" units="RPM">2500.0</constant>
@@ -208,7 +208,7 @@
         <constant name="acrPin">"NONE"</constant>
         <constant digits="1" name="driveWheelRevPerKm" units="revs/km">1000.0</constant>
         <constant digits="2" name="canSleepPeriodMs" units="ms">50.0</constant>
-        <constant digits="0" name="byFirmwareVersion" units="index">2.024062E7</constant>
+        <constant digits="0" name="byFirmwareVersion" units="index">2.0240621E7</constant>
         <constant name="tps1_1AdcChannel">"Disabled"</constant>
         <constant name="vbattAdcChannel">"Disabled"</constant>
         <constant name="fuelLevelSensor">"Disabled"</constant>
@@ -4720,8 +4720,9 @@ end</constant>
          0.0
 </constant>
         <constant digits="0" name="boardSpecificCalibration1" units="">0.0</constant>
+        <constant digits="0" name="boardSpecificCalibration2" units="">0.0</constant>
     </page>
-    <versionInfo firmwareInfo="20240617" nPages="1" signature="rusEFI main.2024.06.21.XYZ.1338717639" version="5.0"/>
+    <versionInfo firmwareInfo="20240617" nPages="1" signature="rusEFI main.2024.06.21.XYZ.1131481494" version="5.0"/>
     <bibliography author="rusEFI 20240617" writeDate="date"/>
     <settings/>
     <userComments/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <msq xmlns="http://www.msefi.com/:msq">
     <page/>
-    <page number="0" size="22804">
+    <page number="0" size="22808">
         <constant name="engineType">"HONDA_OBD1"</constant>
         <constant digits="0" name="startButtonSuppressOnStartUpMs" units="">0.0</constant>
         <constant digits="0" name="sensorSnifferRpmThreshold" units="RPM">2500.0</constant>
@@ -4721,8 +4721,9 @@ end</constant>
          0.0
 </constant>
         <constant digits="0" name="boardSpecificCalibration1" units="">0.0</constant>
+        <constant digits="0" name="boardSpecificCalibration2" units="">0.0</constant>
     </page>
-    <versionInfo firmwareInfo="20240617" nPages="1" signature="rusEFI main.2024.06.21.XYZ.1338717639" version="5.0"/>
+    <versionInfo firmwareInfo="20240617" nPages="1" signature="rusEFI main.2024.06.21.XYZ.1131481494" version="5.0"/>
     <bibliography author="rusEFI 20240617" writeDate="date"/>
     <settings/>
     <userComments/>
